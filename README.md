@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making millions
 - 📫 How to reach me, look to the stars
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm fun
+- ⚡ Fun fact: I'm fun and that's a fact!
 
 <!---
 michealwtf/michealwtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
